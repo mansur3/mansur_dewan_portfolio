@@ -1,0 +1,148 @@
+.header {
+  font-size: 28px;
+}
+
+.skills {
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+.skills p {
+  margin: 8px;
+  border: 1px solid #3c3a3a;
+  border-radius: 38px;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 21px;
+}
+
+.head {
+  font-size: 30px;
+  font-weight: 400;
+  color: rgb(153, 153, 153);
+}
+
+.details {
+  font-size: 22px;
+  color: gray;
+}
+
+.details i {
+  color: white;
+}
+
+.icon {
+  color: white;
+}
+
+.git_button {
+  background-color: white;
+  color: black;
+  border-radius: 33px;
+  padding: 18px;
+  margin-top: 90px;
+  margin-bottom: 90px;
+  position: relative;
+  right: 23px;
+}
+
+.git_button_item {
+  border: 1px solid gray;
+  color: white;
+  border-radius: 33px;
+  padding: 18px;
+  margin-top: 53px;
+  margin-bottom: 90px;
+  position: relative;
+  right: 23px;
+  left: 46px;
+}
+
+.git_button_item_bottom {
+  border: 1px solid gray;
+  background-color: white;
+  color: black;
+  border-radius: 33px;
+  padding: 18px;
+  margin-top: 53px;
+  margin-bottom: 90px;
+  position: relative;
+  right: 23px;
+  left: 18px;
+}
+.git_button_item_bottom:hover {
+}
+
+.component_work::before {
+  content: "";
+  width: 800px;
+  height: 800px;
+  position: absolute;
+  /* top: 580px; */
+  left: -237px;
+  /* right: 7px; */
+  /* bottom: -10px; */
+  border: 1px solid gray;
+  border-radius: 100%;
+  z-index: -1;
+  overflow: hidden;
+}
+
+.component_work_left::before {
+  content: "";
+  width: 800px;
+  height: 800px;
+  position: absolute;
+  /* top: 580px; */
+  left: -237px;
+  /* right: 7px; */
+  /* bottom: -10px; */
+  border: 1px solid gray;
+  border-radius: 100%;
+  z-index: -1;
+  overflow: hidden;
+}
+
+.component_work_right::before {
+  content: "";
+  width: 800px;
+  height: 800px;
+  position: absolute;
+  /* top: 20px; */
+  left: 1093px;
+  /* right: 2px; */
+  /* bottom: -10px; */
+  border: 1px solid gray;
+  border-radius: 100%;
+  z-index: -1;
+  overflow: hidden;
+}
+
+.project_image {
+  width: 100%;
+  overflow: hidden;
+  border-radius: 36px;
+  margin-top: 48px;
+}
+
+.left_bottom {
+  width: 200px;
+  height: 200px;
+  display: block;
+  /* border: 1px solid white; */
+  background-color: #121212;
+  position: relative;
+  top: -109px;
+  left: -78px;
+  border-radius: 59px;
+}
+
+.right_top {
+}
+
+.title_project:hover {
+  cursor: pointer;
+  color: rgb(97, 96, 96);
+}

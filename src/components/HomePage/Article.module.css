@@ -1,0 +1,77 @@
+.borderTop {
+  border-top: 1px solid gray;
+  padding-top: 20px;
+}
+
+.header {
+  font-size: 100px;
+  font-weight: 600;
+  border-bottom: 1px solid gray;
+}
+
+.card_item {
+  border: 1px solid gray;
+  padding-top: 38px;
+  padding-bottom: 38px;
+  padding-left: 42px;
+  padding-right: 42px;
+  border-radius: 42px;
+}
+
+.card_item h2 {
+  font-size: 36px;
+  margin-top: 5px;
+  margin-bottom: 30px;
+}
+
+.card_item p {
+  font-size: 24px;
+  margin-top: 5px;
+  color: rgb(189, 187, 187);
+  margin-bottom: 30px;
+}
+
+.read_more {
+  font-size: 22px;
+  background-color: white;
+  color: black;
+  padding: 20px;
+  border-radius: 40px;
+  padding-left: 74px;
+  padding-right: 74px;
+  font-style: italic;
+}
+
+.button {
+  background-color: white;
+  color: black;
+  padding: 24px;
+  border-radius: 45px;
+  margin-left: 22px;
+}
+
+.button_item {
+  /* background-color: white; */
+  border: 1px solid gray;
+  color: white;
+  padding: 24px;
+  border-radius: 45px;
+  margin-left: 22px;
+  margin-top: 20px;
+}
+
+.button_item_one {
+  background-color: white;
+  color: black;
+  padding: 24px;
+  border-radius: 45px;
+  margin-left: 22px;
+}
+
+.flex_button {
+  width: 12rem;
+}
+
+.item_container {
+  margin-left: 220px;
+}

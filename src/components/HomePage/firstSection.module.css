@@ -1,0 +1,77 @@
+.project {
+  margin: 110px;
+  padding-left: 110px;
+  padding-right: 110px;
+
+  font-style: italic;
+}
+
+.position {
+  position: relative;
+  left: -55px;
+  top: -38px;
+}
+
+.button {
+  color: black;
+  background-color: white;
+  /* margin: -24px; */
+  margin-top: 108px;
+  margin-bottom: 108px;
+  padding-left: 30px;
+  padding-right: 30px;
+  position: relative;
+  left: -65px;
+  border-radius: 45%;
+}
+
+.bottom {
+  margin-top: -106px;
+}
+
+.developer {
+  position: relative;
+  left: -121px;
+}
+
+.detail {
+  width: 30%;
+  font-size: 22px;
+  margin-top: 38px;
+}
+
+.detail i {
+  color: white;
+}
+
+.image {
+  background-color: white;
+}
+.inline {
+  font-size: 28px;
+  background-color: white;
+  color: black;
+  border-radius: 37px;
+  display: inline-flex;
+  letter-spacing: 4px;
+  padding: 11px;
+  overflow: hidden;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.inline i {
+  color: gray;
+  position: relative;
+  left: 10px;
+  font-size: 20px;
+}
+
+.slider_container {
+  margin: auto;
+}
+
+.contacts {
+  margin-top: 21px;
+  color: #443d3d;
+}

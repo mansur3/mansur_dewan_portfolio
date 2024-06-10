@@ -1,0 +1,96 @@
+.top_margin {
+  margin-top: 260px;
+}
+
+.header {
+  font-size: 28px;
+}
+
+.first_name strong {
+  letter-spacing: 20px;
+  font-size: 125px;
+  font-weight: 500;
+}
+
+.title {
+  font-size: 36px;
+  color: gray;
+  width: 216px;
+}
+
+.items {
+}
+
+.items a {
+  font-size: 22px;
+  color: gray;
+  font-weight: 400;
+}
+
+.container {
+  border: 1px solid gray;
+  padding: 35px;
+  border-radius: 36px;
+}
+
+.container h2 {
+  font-size: 36px;
+  color: gray;
+}
+
+.items_data {
+  font-size: 22px;
+  color: rgb(189, 189, 189);
+}
+
+.whole_contaniner {
+  width: 450px;
+}
+
+.component {
+}
+
+.component::before {
+  content: "";
+  width: 800px;
+  height: 800px;
+  position: absolute;
+  top: 580px;
+  /* left: 1209px; */
+  right: 7px;
+  /* bottom: -10px; */
+  border: 1px solid gray;
+  border-radius: 100%;
+  z-index: -1;
+  overflow: hidden;
+}
+
+.component_work_left_footer::before {
+  content: "";
+  width: 800px;
+  height: 800px;
+  position: absolute;
+  top: -20px;
+  left: -237px;
+  /* right: 7px; */
+  /* bottom: -10px; */
+  border: 1px solid gray;
+  border-radius: 100%;
+  z-index: -1;
+  overflow: hidden;
+}
+
+.component_work_left_footer_bottom::before {
+  content: "";
+  width: 800px;
+  height: 800px;
+  position: absolute;
+  top: 5286px;
+  left: -237px;
+  /* right: 7px; */
+  /* bottom: -29px; */
+  border: 1px solid gray;
+  border-radius: 100%;
+  z-index: -1;
+  overflow: hidden;
+}

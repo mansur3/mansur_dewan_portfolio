@@ -1,0 +1,38 @@
+.container {
+  padding-top: 200px;
+}
+.header h2 {
+  font-size: 100px;
+  font-weight: 600;
+}
+
+.tableRow {
+  border: 1px solid gray;
+}
+
+.item_container {
+  border-top: 1px solid gray;
+  border-bottom: 1px solid gray;
+  padding: 34px;
+  font-size: 23px;
+}
+
+.first_column {
+  color: gray;
+}
+
+.bottom {
+  margin-top: 20px;
+}
+
+.bottom p {
+  font-size: 23px;
+  color: gray;
+}
+
+.highlight i {
+  color: white;
+}
+.first_column p {
+  font-size: 18px;
+}

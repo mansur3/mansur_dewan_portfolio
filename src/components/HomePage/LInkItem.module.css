@@ -1,0 +1,24 @@
+.top_margin {
+  margin-bottom: 80px;
+}
+
+.list_item {
+  border: 1px solid rgb(46, 46, 46);
+  padding-left: 60px;
+  align-items: center;
+  padding-right: 60px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 36px;
+}
+
+.list_item:hover {
+  cursor: pointer;
+}
+
+.list_item p {
+  margin-left: 20px;
+  font-size: 22px;
+  font-style: italic;
+  color: gray;
+}
