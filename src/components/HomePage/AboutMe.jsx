@@ -13,7 +13,7 @@ const AboutMe = () => {
         </h2>
         <div className={`${style.alignment}`}>
           <p>
-            Hello! I'm Mansur, I'm a <i>full-stack developer.</i>
+            Hello! I&apos;m Mansur, I&apos;m a <i>full-stack developer.</i>
           </p>
           <p>
             More than <i>2 years</i> experience.
